@@ -1,3 +1,5 @@
+#1. Diseña y codifica un programa que lea un número del 0 al 6 y escriba el nombre del día de la semana correspondiente, "lunes", "martes", ..., "domingo". Si el número leído no esta en el intervalo previsto, escribirá "error".
+
 numero = int(input("Ingresa un número del 0 al 6: "))
 
 if numero == 0:
